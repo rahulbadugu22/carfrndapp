@@ -26,6 +26,7 @@ export const Colors = {
   borderDark: '#CBD5E1',
 
   // Typography Colors
+  slate: '#0F172A',
   textMain: '#0F172A',
   textSub: '#475569',
   textMuted: '#64748B',
